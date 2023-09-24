@@ -1,13 +1,11 @@
-![1675760832285]
 <h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-    Welcome To ARAFAT-MITUL-143 Profile  
+Welcome To ARAFAT-MITUL-143 Profile  
 </h3>
 <center>
 <a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://t.me/Mahadi_143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143&label=MAHADI'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMITUL & ARAFAT-YOUR-PAPA%2Fgithub-MAHADI-143&label=ARAFAT-MITUL-143'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
 <a href="https://github.com/ARAFAT-MITUL-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
 
