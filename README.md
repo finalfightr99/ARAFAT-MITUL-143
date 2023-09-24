@@ -5,7 +5,7 @@ Welcome To ARAFAT-MITUL-143 Profile
 <a href="https://m.me/j/AbZD4vy-yJu5RUw9/" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/05/icone-messager-rouge.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://m.me/j/AbZD4vy-yJu5RUw9/"><img src="https://github.com/ARAFAT-MITUL-143/ARAFAT-MITUL-143/blob/main/pngwing.com.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/groups/667550965333336/?ref=share" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMITUL & ARAFAT-YOUR-PAPA%2Fgithub-MAHADI-143&label=ARAFAT-MITUL-143'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FARAFAT & MITUL-YOUR-PAPA%2Fgithub-ARAFAT-MITUL-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMITUL & ARAFAT-YOUR-PAPA%2Fgithub-ARAFAT-MITUL-Q43&label=ARAFAT-MITUL-143'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
 <a href="https://github.com/ARAFAT-MITUL-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARAFAT-MITUL-143&theme=monokai"></a>
 
@@ -13,7 +13,7 @@ Welcome To ARAFAT-MITUL-143 Profile
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/ARAFAT-MITUL-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MAHADI-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ARAFAT-MITUL-143's GitHub stats"/></td> </a>
+    <td valign="top"><a href="https://github.com/ARAFAT-MITUL-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ARAFAT-MITUL-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ARAFAT-MITUL-143's GitHub stats"/></td> </a>
     <td valign="top"> <a href="https://github.com/ARAFAT-MITUL-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAFAT-MITUL-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
