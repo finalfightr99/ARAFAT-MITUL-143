@@ -2,7 +2,6 @@
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
     Welcome To ARAFAT-MITUL-143 Profile  
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
 </h3>
 <img src="https://user-images.githubusercontent.com/79738922/215358334-f326af7b-5a43-4a05-a693-0dc9c6d4398b.gif" width="150" height="270" align="right">
 <center>
