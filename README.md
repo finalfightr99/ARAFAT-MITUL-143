@@ -2,8 +2,8 @@
 Welcome To ARAFAT-MITUL-143 Profile  
 </h3>
 <center>
-<a href="https://Instagram.com/mahadi_oo" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/05/icone-messager-rouge.png" alt="alt text" width="81" height="81"></a> 
-<a href="https://m.me/j/AbZD4vy-yJu5RUw9/"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
+<a href="https://m.me/j/AbZD4vy-yJu5RUw9/" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/05/icone-messager-rouge.png" alt="alt text" width="81" height="81"></a> 
+<a href="https://m.me/j/AbZD4vy-yJu5RUw9/"><img src="https://github.com/ARAFAT-MITUL-143/ARAFAT-MITUL-143/blob/main/pngwing.com.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/4FR1D1.143" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMITUL & ARAFAT-YOUR-PAPA%2Fgithub-MAHADI-143&label=ARAFAT-MITUL-143'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
